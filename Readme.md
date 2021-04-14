@@ -17,4 +17,8 @@
 <a href="https://linkedin.com/in/santiago-molina-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-molina-dev" height="40" width="50" /></a>
 </p>
 
+<a href="https://github.com/SantiagoMartinMolina">
+  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=santiagomartinmolina&theme=radical&layout=compact" />
+</a>
+
 
