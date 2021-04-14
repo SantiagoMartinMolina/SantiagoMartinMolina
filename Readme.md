@@ -9,8 +9,8 @@
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/santidev7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="santidev7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/santiago-molina-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-molina-dev" height="30" width="40" /></a>
+<a href="https://twitter.com/santidev7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="santidev7" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/santiago-molina-dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="santiago-molina-dev" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Tecnologias:</h3>
