@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Santiago</h1>
 <h3 align="center">Full stack developer</h3>
-<p>Estudiante de ingenieria en sistemas de informacion. Actualmente buscando alguna oportunidad laboral en el mundo del desarrollo web, mientras sigo aprendiendo nuevas tecnologias y reforzando lo aprendido. </p>
+<p>Estudiante de ingeniería en sistemas de información. Actualmente buscando alguna oportunidad laboral en el mundo del desarrollo web, mientras sigo aprendiendo nuevas tecnologías y reforzando lo aprendido. </p>
 
 - 🇦🇷 Argentina
 
