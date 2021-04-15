@@ -4,8 +4,6 @@
 
 - 🇦🇷 Argentina
 
-#- 🌱 Actualmente estoy aprendiendo **MongoDB**
-
 - 📫 Cómo contactarme: **molina.santiago.martin@gmail.com**
 
 <h3 align="left">Tecnologias:</h3>
